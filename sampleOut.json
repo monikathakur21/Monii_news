@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 34,
+    "articles": [
+    {
+    "source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "Haley Brink, Dakin Andone, Nouran Salahieh",
+    "title": "Florida officials urge residents to prepare for Tropical Storm Ian, forecast to be a major hurricane before it reaches Cuba - CNN",
+    "description": "Floridians are bracing for Tropical Storm Ian, which is expected to rapidly intensify and become a hurricane Sunday before hitting western Cuba, bringing with it the threats of strong winds and storm surge as high as 9 to 14 feet, according to the National Hu…",
+    "url": "https://www.cnn.com/2022/09/25/weather/tropical-storm-ian-florida-hurricane-sunday/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220924224538-02-tropical-storm-ian-092422.jpg?q=w_800,c_fill",
+    "publishedAt": "2022-09-25T18:10:00Z",
+    "content": "Floridians are bracing for Tropical Storm Ian, which is expected to rapidly intensify and become a hurricane Sunday before hitting western Cuba, bringing with it the threats of strong winds and storm… [+7223 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "The Guardian"
+    },
+    "author": "Angela Giuffrida, Jennifer Rankin",
+    "title": "Europe holds its breath as Italy expected to vote in far-right leader - The Guardian",
+    "description": "Coalition led by Giorgia Meloni would be country’s most radical government since Mussolini",
+    "url": "https://amp.theguardian.com/world/2022/sep/25/europe-holds-its-breath-as-italy-prepares-to-vote-in-far-right-leader-giorgia-meloni",
+    "urlToImage": null,
+    "publishedAt": "2022-09-25T18:03:00Z",
+    "content": "Giorgia MeloniCoalition led by Giorgia Meloni would be countrys most radical government since Mussolini\r\nSun 25 Sep 2022 13.37 BST\r\nItalians are voting in an election that is forecast to deliver the … [+6155 chars]"
+    },
+   {
+    "source": {
+    "id": "the-washington-post",
+    "name": "The Washington Post"
+    },
+    "author": "Beth Reinhard, Maria Sacchetti, Molly Hennessy-Fiske",
+    "title": "Mysteries, legal peril follow DeSantis's migrant flight - The Washington Post",
+    "description": "Florida Gov. Ron DeSantis (R) has politically benefited by flying migrants from Texas to Martha's Vineyard, but the effort is trailed by unanswered questions and legal peril.",
+    "url": "https://www.washingtonpost.com/politics/2022/09/25/desantis-perla-migrant-flight-marthas-vineyard/",
+    "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4CW7EIBYPAI63OFPBICOLXB5WY.jpg&w=1440",
+    "publishedAt": "2022-09-25T17:50:00Z",
+    "content": "When Jose joined the migrants behind a McDonalds on a sunbaked San Antonio street earlier this month, he was running out of options. The 27-year-old had survived the perilous trek from Venezuela and … [+16365 chars]"
+    },
+   {
+    "source": {
+    "id": "nfl-news",
+    "name": "NFL News"
+    },
+    "author": "Around the NFL Staff",
+    "title": "2022 NFL season, Week 3: Notable injuries, news from Sunday's games - NFL.com",
+    "description": "Here are the injuries and news we're monitoring around the league on this Week 3 Sunday.",
+    "url": "https://www.nfl.com/news/2022-nfl-season-week-3-notable-injuries-news-from-sunday-s-games",
+    "urlToImage": "https://static.www.nfl.com/image/private/t_editorial_landscape_12_desktop/league/bww106vaodab88glx0wb",
+    "publishedAt": "2022-09-25T17:39:00Z",
+    "content": "Saints quarterback Jameis Winston, who is listed as questionable because of back and ankle injuries, is expected to play against the Carolina Panthers, according to NFL Network Insider Ian Rapoport. … [+50 chars]"
+    },
+   {
+    "source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "Nouran Salahieh, CNN",
+    "title": "Hundreds of thousands without power in Atlantic Canada after Fiona rumbles north - CNN",
+    "description": "The storm named Fiona slammed into Canada's eastern seaboard with hurricane-force winds and torrential rainfall Saturday, pulling buildings into the ocean, collapsing homes, toppling trees and knocking out power for hundreds of thousands of people.",
+    "url": "https://www.cnn.com/2022/09/25/weather/fiona-canada-sunday/index.html",
+    "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220924124514-05-fiona-canada-0924-newfoundland-super-tease.jpg",
+    "publishedAt": "2022-09-25T17:30:00Z",
+    "content": "(CNN)The storm named Fiona slammed into Canada's eastern seaboard with hurricane-force winds and torrential rainfall Saturday, pulling buildings into the ocean, collapsing homes, toppling trees and k… [+5276 chars]"
+    },
+   {
+    "source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "Katharina Krebs, Radina Gigova, Simone McCarthy, Sana Noor Haq",
+    "title": "Protests, drafting mistakes and an exodus: Putin's mobilization off to chaotic start - CNN",
+    "description": "Russia's \"partial mobilization\" for its war in Ukraine is off to a chaotic start amid protests, drafting mistakes and an exodus of citizens fleeing Russia, as the Kremlin tightens rules around evading military orders.",
+    "url": "https://www.cnn.com/2022/09/25/europe/russian-mobilization-putin-exodus-chaos-new-laws-intl-hnk/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220925001355-01-russian-mobilization-new-laws-referendum-intl-hnk.jpg?q=w_800,c_fill",
+    "publishedAt": "2022-09-25T16:59:00Z",
+    "content": "Russias partial mobilization for its war in Ukraine is off to a chaotic start amid protests, drafting mistakes and an exodus of citizens fleeing Russia, as the Kremlin tightens rules around evading m… [+7443 chars]"
+    },
+   {
+    "source": {
+    "id": null,
+    "name": "Fox Business"
+    },
+    "author": "Anders Hagstrom",
+    "title": "Google CEO says employees shouldn't 'equate fun with money’ - Fox Business",
+    "description": "Google employees are complaining that the company is limiting benefits and perks despite the company's booming success. CEO Sundar Pichai says fund doesn't equate with money.",
+    "url": "https://www.foxbusiness.com/markets/google-ceo-says-employees-shouldnt-equate-fun-money",
+    "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2022/01/0/0/Sundar-Pichai-Google.jpg?ve=1&tl=1",
+    "publishedAt": "2022-09-25T16:25:52Z",
+    "content": "Google CEO Sundar Pichai urged his employees not to \"equate fun with money\" during a company-wide town hall event last week.\r\nPichai made the comments after employees complained that Google was restr… [+2279 chars]"
+    },
+   {
+    "source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "Zoe Sottile and Michelle Watson, CNN",
+    "title": "Post Malone cancels Boston concert after returning to the hospital - CNN",
+    "description": "It's been a rough few weeks for Post Malone.",
+    "url": "https://www.cnn.com/2022/09/25/entertainment/post-malone-boston-hospital-trnd/index.html",
+    "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220925111910-post-malone-0807-super-tease.jpg",
+    "publishedAt": "2022-09-25T15:37:00Z",
+    "content": null
+    },
+   {
+    "source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "Hamdi Alkhshali and Jomana Karadsheh, CNN",
+    "title": "Fifth Iranian paramilitary member killed as president warns protesters will be dealt with 'decisively' - CNN",
+    "description": "A fifth member of an Iranian volunteer paramilitary group died Sunday after clashing with what state media called \"rioters and thugs,\" as the country's President Ebrahim Raisi warned that protesters would be dealt with \"decisively\" after days of nationwide un…",
+    "url": "https://www.cnn.com/2022/09/25/middleeast/mahsa-amini-death-iran-intl/index.html",
+    "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220923205546-mahsa-amini-un-investigation-iran-protest-intl-hnk-super-tease.jpg",
+    "publishedAt": "2022-09-25T15:35:00Z",
+    "content": "(CNN)A fifth member of an Iranian volunteer paramilitary group died Sunday after clashing with what state media called \"rioters and thugs,\" as the country's President Ebrahim Raisi warned that protes… [+5447 chars]"
+    },
+   {
+    "source": {
+    "id": null,
+    "name": "Variety"
+    },
+    "author": "Rebecca Rubin",
+    "title": "Box Office: ‘Don’t Worry Darling’ Sizzles With $19 Million Debut - Variety",
+    "description": "In the end, there was no need to worry, darling. Olivia Wilde’s “Don’t Worry Darling,” a psychological thriller with off-screen drama that rivaled any antics in the actual movie, scored at the box office in its opening weekend, collecting a leading $19.2 mill…",
+    "url": "https://variety.com/2022/film/box-office/dont-worry-darling-box-office-opening-weekend-harry-styles-olivia-wilde-1235383066/",
+    "urlToImage": "https://variety.com/wp-content/uploads/2022/09/florence-olivia-dwd.jpg?w=1000",
+    "publishedAt": "2022-09-25T15:25:00Z",
+    "content": "In the end, there was no need to worry, darling. Olivia Wilde’s “Don’t Worry Darling,” a psychological thriller with off-screen drama that rivaled any antics in the actual movie, scored at the box of… [+4186 chars]"
+    },
+   {
+    "source": {
+    "id": null,
+    "name": "CNBC"
+    },
+    "author": "Ashley Capoot, Jack Stebbins",
+    "title": "Zelenskyy on Putin's threat of nuclear weapons: 'I don't think he's bluffing' - CNBC",
+    "description": "Ukrainian President Volodymyr Zelenskyy said Russia's threat of nuclear weapons use \"could be a reality,\" in an interview with CBS' \"Face the Nation\" on Sunday.",
+    "url": "https://www.cnbc.com/2022/09/25/zelenskyy-on-putins-threat-of-nuclear-weapons-i-dont-think-hes-bluffing.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/107116298-16627457532022-09-09t173739z_1245832987_rc2odw9ii9cb_rtrmadp_0_ukraine-crisis-arms-contractors.jpeg?v=1664118314&w=1920&h=1080",
+    "publishedAt": "2022-09-25T15:05:14Z",
+    "content": "Ukrainian President Volodymyr Zelenskyy said Russia's threat of nuclear weapons use \"could be a reality,\" in an interview with CBS' \"Face the Nation\" Sunday.\r\nIt has been seven months since Russia la… [+3100 chars]"
+    },
+   {
+    "source": {
+    "id": "bloomberg",
+    "name": "Bloomberg"
+    },
+    "author": null,
+    "title": "Germany Secures Just One Tanker of Gas During Scholz's Gulf Tour - Bloomberg",
+    "description": null,
+    "url": "https://www.bloomberg.com/tosv2.html?vid=&uuid=d0d1f6a2-3d03-11ed-9fea-4e5464635163&url=L25ld3MvYXJ0aWNsZXMvMjAyMi0wOS0yNS9nZXJtYW55LW5hYnMtdWFlLWdhcy1kZWFsLWFzLWVuZXJneS1zcXVlZXplLXRpZ2h0ZW5z",
+    "urlToImage": null,
+    "publishedAt": "2022-09-25T14:48:56Z",
+    "content": "To continue, please click the box below to let us know you're not a robot."
+    },
+   {
+    "source": {
+    "id": null,
+    "name": "Space.com"
+    },
+    "author": "Tariq Malik",
+    "title": "Jaw-dropping Jupiter photo made of 600,000 images, photographer says - Space.com",
+    "description": "\"Viewing Jupiter never gets old. It is a magnificent planet,\" astrophotographer Andrew McCarthy said of his sharpest photo yet.",
+    "url": "https://www.space.com/jupiter-photo-most-detailed-by-photographer",
+    "urlToImage": "https://cdn.mos.cms.futurecdn.net/kcBtTSsYCrFm8KUZiRfPxK-1200-80.jpg",
+    "publishedAt": "2022-09-25T14:23:50Z",
+    "content": "Astrophotographer Andrew McCarthy of Arizona captured this stunning view of Jupiter by stacking 600,000 images of the planet to create his sharpest view ever. See more of McCarthy's images on Instagr… [+3242 chars]"
+    },
+   {
+    "source": {
+    "id": "buzzfeed",
+    "name": "Buzzfeed"
+    },
+    "author": "Natasha Jokic",
+    "title": "Alec And Hilaria Baldwin Just Had Their Seventh Kid, And I Think I Need To Lie Down Over The Name - BuzzFeed",
+    "description": "\"Her Baldwinito siblings are spending the day bonding and welcoming her into our home.\"",
+    "url": "https://www.buzzfeed.com/natashajokic1/hilaria-alec-baldwin-seventh-child",
+    "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2022-09/25/14/enhanced/a3f2f5cb663c/original-8950-1664115196-13.jpg?crop=1244:651;0,178%26downsize=1250:*",
+    "publishedAt": "2022-09-25T14:23:16Z",
+    "content": null
+    },
+   {
+    "source": {
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "Chance Miller",
+    "title": "iPhone users continue to complain of battery life issues after installing iOS 16 - 9to5Mac",
+    "description": "iOS 16 has been available for just about two weeks, and users are continuing to complain that the update has destroyed their iPhone’s battery life. While a temporary hit to battery life is normal after a software update, something different seems to be going …",
+    "url": "https://9to5mac.com/2022/09/25/ios-16-battery-life-iphone/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/09/ios-16-battery-life.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2022-09-25T14:23:00Z",
+    "content": "iOS 16 has been available for just about two weeks, and users are continuing to complain that the update has destroyed their iPhone’s battery life. While a temporary hit to battery life is normal aft… [+2754 chars]"
+    },
+   {
+    "source": {
+    "id": null,
+    "name": "CBS Sports"
+    },
+    "author": "",
+    "title": "College football rankings, grades: Oklahoma gets an 'F', Alabama earns 'A+' on Week 4 report card - CBS Sports",
+    "description": "A wild Week 4 in college football saw the sixth-ranked Sooners suffer their first loss of the Brent Venables era",
+    "url": "https://www.cbssports.com/college-football/news/college-football-rankings-grades-oklahoma-gets-an-f-alabama-earns-a-on-week-4-report-card/",
+    "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/09/25/afb1f20c-6dd5-4215-813e-09dfd98b3c12/thumbnail/1200x675/83101afa2a2a090069a9081e414b37c8/sooners.jpg",
+    "publishedAt": "2022-09-25T13:39:00Z",
+    "content": "Week 4 of the college football season on Saturday was a rollercoaster ride from noon ET until well past midnight. No. 6 Oklahoma was stunned at home by Kansas State in a game that saw the Sooners def… [+785 chars]"
+    },
+   {
+    "source": {
+    "id": null,
+    "name": "Sports Illustrated"
+    },
+    "author": "Pat Forde and Ross Dellenger",
+    "title": "NFL Upright Turns Field Goal Drama Into ‘Doink’ in Arkansas Loss to Texas A&M - Sports Illustrated",
+    "description": "At JerryWorld, the Razorbacks saw a late field goal bounce off the top of the upright. But what would’ve happened in a college stadium?",
+    "url": "https://www.si.com/college/2022/09/25/arkansas-field-goal-nfl-uprights-doink-texas-am-jerryworld",
+    "urlToImage": "https://www.si.com/.image/t_share/MTkyNTgyODczOTU2NDkzMDQ5/arkansas-texas-am-field-goal.jpg",
+    "publishedAt": "2022-09-25T13:36:11Z",
+    "content": "Did playing in an NFL stadium cost the Arkansas Razorbacks a victory over Texas A&amp;M Saturday night? It’s open to conjecture.\r\nCam Little’s 42-yard field goal attempt with 90 seconds remaining in … [+2738 chars]"
+    },
+   {
+    "source": {
+    "id": "the-washington-post",
+    "name": "The Washington Post"
+    },
+    "author": "Mark Maske",
+    "title": "NFL Sunday primer: Brady-Rodgers, Bills-Dolphins, Ravens-Pats headline Week 3 - The Washington Post",
+    "description": "It's Rodgers-Brady, Bills-Dolphins, Ravens-Pats on the third Sunday of the NFL season.",
+    "url": "https://www.washingtonpost.com/sports/2022/09/25/nfl-week-3-sunday-primer/",
+    "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PVJTKHR5AAI63DDOSODL27GYEY.jpg&w=1440",
+    "publishedAt": "2022-09-25T13:00:00Z",
+    "content": "Quarterback Tua Tagovailoa left the Miami Dolphins game Sunday afternoon against the Buffalo Bills in the first half and was evaluated for a head injury. He reentered the game to begin the second hal… [+5861 chars]"
+    },
+   {
+    "source": {
+    "id": "the-washington-post",
+    "name": "The Washington Post"
+    },
+    "author": "Joel Achenbach",
+    "title": "NASA testing planetary defense by crashing spacecraft into an asteroid - The Washington Post",
+    "description": "If everything goes as planned, and the laws of gravity and motion don’t change at the last minute, the asteroid collision will happen at exactly 7:14:23 EST.",
+    "url": "https://www.washingtonpost.com/science/2022/09/25/nasa-asteroid-planetary-defense-test/",
+    "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VFEUHNR2RII63OFPBICOLXB5WY.jpg&w=1440",
+    "publishedAt": "2022-09-25T13:00:00Z",
+    "content": "Heart rates are spiking in the Washington suburbs, where scientists and engineers on Monday evening hope to witness a vending-machine-sized spacecraft that is 7 million miles from Earth crash into an… [+5783 chars]"
+    },
+   {
+    "source": {
+    "id": null,
+    "name": "fox8.com"
+    },
+    "author": "Alexis Walters, Laura Morrison",
+    "title": "Flood advisory issued for some in NE Ohio - WJW FOX 8 News Cleveland",
+    "description": "(WJW) — A flood advisory has been issued for Lake and Ashtabula Counties Sunday morning due to concern for major rainfall. The weather alert is set to last until 4 p.m. Rain will move in early and continue on and off through the day. As a cold front moves in,…",
+    "url": "https://fox8.com/weather/rain-storms-cold-welcome-to-fall-in-ne-ohio/",
+    "urlToImage": "https://fox8.com/wp-content/uploads/sites/12/2022/09/5-Day-Rain-Panels-3.png?w=1280",
+    "publishedAt": "2022-09-25T11:32:14Z",
+    "content": "(WJW) A flood advisory has been issued for Lake and Ashtabula Counties Sunday morning due to concern for major rainfall. The weather alert is set to last until 4 p.m. \r\nRain will move in early and co… [+976 chars]"
+    }
+    ]
+    }
